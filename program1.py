@@ -1,0 +1,10 @@
+#arthmetic operation
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print("the addition of two number is:",a+b)
+print("subtraction of two number is:",a-b)
+print("multipe of two number is:",a*b)
+print("division of two number is:",a/b)
+print("floor division of two number is:",a//b)
+print("modules of two number is:",a%b)
+print("expansion of two number is:",a**b)
